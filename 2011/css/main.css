@@ -1,0 +1,158 @@
+/**** NEW 2011 LOOK ****************************/
+
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	font-family: helveitca, arial, sans-serif;
+	color: #2b3235;
+}
+
+body {
+	background-image: url(../images/body_top_bg.jpg);
+	background-position: right 22px;
+	background-repeat: no-repeat;
+	height: 100%;
+	font-size: 12px;
+}
+
+
+h1 {
+	border-bottom: 1px solid #CCCCCC;
+    float: left;
+    font-size: 38px;
+    padding-left: 8px;
+    padding-top: 12px;
+}
+
+h2 {
+	float: left;
+    font-size: 18px;
+    letter-spacing: 2px;
+    width: 80%;
+}
+
+h3 {
+	text-align: left;
+	border-bottom: 1px solid #afafaf;
+	padding: 0 0 5px;
+	margin: 0 0 15px;
+}
+
+/********** MAIN LAYOUT *************/
+
+#container {
+	width: 100%;
+	background-image: url(../images/top_nav_bg.jpg);
+	background-repeat: repeat-x;
+	float: left;
+}
+table#javaScriptShortcut {
+	width: 100%;
+	height: 100%;
+}	
+
+table#javaScriptShortcut td {
+	padding: 60px 0 0;
+}
+
+#wrapper {
+	width: 1000px;
+	margin: auto;
+}
+
+#mastHead {
+    background-image: url("../images/masthead_bg.png");
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    height: 118px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 233px;
+    width: 578px;
+}
+
+#logo {
+	float: left;
+	margin-right: 10px;
+}
+
+#logo img {
+	width: 100px;
+}
+
+#portfolioContent,
+#resumeContent,
+#aboutContent {
+	display: none;
+	float: left;
+	width: 100%;
+	margin-top: 20px;
+}
+
+#topNav {
+	position: absolute;
+	top: 0px;
+	right: 50%;
+	text-align: right;
+	height: 20px;
+	width: 1000px;
+	margin-right: -500px;
+}
+
+#topNav div {
+	float: right;
+}
+
+#topNav a {
+	color: #fff;
+	text-decoration: none;
+    border-right: 1px solid #FFFFFF;
+    float: left;
+    font-weight: bold;
+    height: 22px;
+    line-height: 19px;
+    padding: 0 15px 0;
+	cursor: pointer;
+}
+
+#topNav a.last {
+	border-right: 0;
+}
+
+#topNav a:hover {
+	background-color: #fff;
+	color: #000;
+}
+
+.activeContent {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/********** PORTFOLIO *************/
+
+.portfolioItem {
+    display: inline;
+    margin-right: 5px;
+	float: left;
+}
+
+.portfolioItem a {
+	opacity: 0.5;
+	float: left;
+}
+
+.portfolioItem a:hover,
+.portfolioItem a.activePortfolio {
+	opacity: 1;
+}
+
+.portfolioDescription {
+	display: none;
+	width: 120px;
+}
+
+.activePortfolio {
+	float: left;
+}

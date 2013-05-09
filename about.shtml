@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Michael Rochette Portfolio - About</title>
+	<link href="/favicon.png" type="image/x-icon" rel="shortcut icon"/>
+	<link href="css/main.css" type="text/css" rel="stylesheet" />
+<!--META TAGS-->	
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Language" content="en-us" />
+	<meta name="author" content="Michael Rochette" />
+	<meta name="description" content="Michael Rochette's Web design & Integration portfolio" />
+	<meta name="keywords" content="Web Designer, Web Integrator, Multimedia, HTML, CSS, Flash" />
+<!--GOOGLE ANALYTICS-->
+	<script type="text/javascript">
+	
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-18337421-1']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+</head>
+
+<body>
+	<div id="navigation">
+		<ul id="main_nav">
+			<li class="level_1">
+				<a href="/index.shtml">home</a></li><li class="level_1 dropmenu">
+				<a href="/portfolio.shtml">portfolio</a>
+				<dl class="subnav"><dd>
+					<a href="/portfolio.shtml#cgc">Commonwealth Games</a></dd><dd>
+					<a href="/portfolio.shtml#ez">eZ WebZone</a></dd><dd>
+					<a href="/portfolio.shtml#mma">MMA Builder</a></dd><dd>
+					<a href="/portfolio.shtml#irun">Irun Generic Templates</a></dd><dd>
+					<a href="/portfolio.shtml#cfsuo">Canadian Forces Support Unit of Ottawa</a></dd><dd>
+					<a href="/portfolio.shtml#rg">Rallye des Gazelles</a></dd>
+				</dl>
+			</li><li class="level_1 dropmenu">
+				<a href="documents/Michael_Rochette_Resume.pdf">resum&eacute;</a>
+				<dl class="subnav"><dd>
+					<a href="documents/Michael_Rochette_Resume.pdf">view resum&eacute;</a></dd><dd>
+					<a href="documents/Michael_Rochette_Resume.zip">download resum&eacute;</a></dd>
+				</dl>
+			</li><li class="level_1">
+				<a href="/about.shtml">about</a></li><li class="level_1">
+				<a href="mailto:michael.rochette@gmail.com">contact</a></li>
+		</ul>
+	</div>
+	<table id="center" cellpadding="0" cellspacing="0" border="0">
+		<tr>
+			<td id="center_left_repeater">&nbsp;			
+			</td>
+			<td id="center_left">&nbsp;
+				
+			</td>
+			<td id="center_content">
+				<div id="left_col">
+					<p class="left_col_name">Michael<br />Rochette</p><p class="left_col_title">Web Integrator<br />Web Designer</p>
+				</div>
+			  <div id="right_col">
+<!--PAGE TITLE-->				
+				<h1>About</h1>
+                <!--CONTENT BEGINGS-->
+				<img class="floating_image" src="http://media03.linkedin.com/mpr/mpr/shrink_80_80/p/3/000/068/2c2/2077047.jpg" alt="Michael Rochette" /><p>&nbsp;</p>
+				<p>Hiya! Welcome to my online portfolio.  As you might have guessed, I am Michael Rochette. Here's a brief overview of where I come from, and my story in the Web business. </p>
+				<p>&nbsp;</p>
+				<h2>The Beginning</h2>
+				<p> I was born in Quebec and hauled all over the East coast of Canada by my military family, and have become open minded about different cultures and social tendencies.  Going back to early high school, I became very fond of making Web sites.  Although I had a set path in engineering, I decided to turn to multimedia arts in my last year of high school, and applied in Graphic Design in 2005.</p>
+				<p>I graduated from La Cit&eacute; collégiale in Graphic Design in 2008 and was accepted as a student member of the Registered Graphic Designers (RGD) of Ontario.</p>
+				<h2>Getting Started</h2><p>In order to touch as many aspects of the Web industry as possible, I began freelancing in college for Web design, where I was given small contracts by my teachers. In 2007, I was accepted by the Canadian Forces as a consultant to renew the Canadian Forces Support Unit of Ottawa's look and feel. This gave me a strong base with restrictions imposed on government sites, known as the Common Look and Feel 2 (CLF2). </p>
+				<p>After graduation, I began working as an Integrator for a small private company, where I learned quickly about the World Wide Web Consortium's (W3C) best practices, and with the aide of a good multimedia team I learned how to make full sites in little to no time. </p>
+				<h2>Current Chapter</h2>
+				<p>Today, I still work for the same private company, and have been transfered to a new office in Montreal. Since the begining, I have gained further experience with my new responsibilities in tech support, client trainings, project estimations, participating in sales pitches and leading teams in multimedia.</p>
+				<p>Make sure to check out <a href="/portfolio.shtml">my portfolio</a> and <a href="Michael_Rochette_Resume">my resumé</a> in order to get the full scoop! You can also look for <a href="http://ca.linkedin.com/pub/michael-rochette/19/7/982" target="_blank">me on LinkedIn</a>. </p>
+				</div>			
+			</td>
+			<td id="center_right">&nbsp;
+				
+			</td>						
+			<td id="center_right_repeater">&nbsp;					
+			</td>						
+		</tr>
+	</table>
+</body>
+</html>

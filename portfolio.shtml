@@ -1,0 +1,329 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Michael Rochette Portfolio</title>
+	<link href="/favicon.png" type="image/x-icon" rel="shortcut icon"/>
+	<link href="css/main.css" type="text/css" rel="stylesheet" />
+<!--META TAGS-->	
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Language" content="en-us" />
+	<meta name="author" content="Michael Rochette" />
+	<meta name="description" content="Michael Rochette's Web design & Integration portfolio" />
+	<meta name="keywords" content="Web Designer, Web Integrator, Multimedia, HTML, CSS, Flash" /> 
+<!--LIGHTBOX-->
+	<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
+	<script type="text/javascript" src="js/prototype.js"></script>
+	<script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
+	<script type="text/javascript" src="js/lightbox.js"></script>
+<!--GOOGLE ANALYTICS-->
+	<script type="text/javascript">
+	
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-18337421-1']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+</head>
+
+<body>
+	<div id="navigation">
+		<ul id="main_nav">
+			<li class="level_1">
+				<a href="/index.shtml">home</a></li><li class="level_1 dropmenu">
+				<a href="/portfolio.shtml">portfolio</a>
+				<dl class="subnav"><dd>
+					<a href="/portfolio.shtml#cgc">Commonwealth Games</a></dd><dd>
+					<a href="/portfolio.shtml#ez">eZ WebZone</a></dd><dd>
+					<a href="/portfolio.shtml#mma">MMA Builder</a></dd><dd>
+					<a href="/portfolio.shtml#irun">Irun Generic Templates</a></dd><dd>
+					<a href="/portfolio.shtml#cfsuo">Canadian Forces Support Unit of Ottawa</a></dd><dd>
+					<a href="/portfolio.shtml#rg">Rallye des Gazelles</a></dd>
+				</dl>
+			</li><li class="level_1 dropmenu">
+				<a href="documents/Michael_Rochette_Resume.pdf">resum&eacute;</a>
+				<dl class="subnav"><dd>
+					<a href="documents/Michael_Rochette_Resume.pdf">view resum&eacute;</a></dd><dd>
+					<a href="documents/Michael_Rochette_Resume.zip">download resum&eacute;</a></dd>
+				</dl>
+			</li><li class="level_1">
+				<a href="/about.shtml">about</a></li><li class="level_1">
+				<a href="mailto:michael.rochette@gmail.com">contact</a></li>
+		</ul>
+	</div>
+	<table id="center" cellpadding="0" cellspacing="0" border="0">
+		<tr>
+			<td id="center_left_repeater">&nbsp;			
+			</td>
+			<td id="center_left">&nbsp;
+				
+			</td>
+			<td id="center_content">
+				<div id="left_col">
+					<p class="left_col_name">Michael<br />Rochette</p><p class="left_col_title">Web Integrator<br />Web Designer</p>
+				</div>
+				<div id="right_col">
+<!--PAGE TITLE-->				
+					<h1>Portfolio</h1>
+<!--CONTENT BEGINGS-->
+					<p>Please note that all mock ups presented in this section bearing iStock logos on them are images that were used to present to clients before purchase.  All presented iStock images belong to iStock and are only used for presentation explicitly.</p> 
+<!--COMMONWEALTH GAMES CANADA-->
+					<div class="portfolio_piece">
+						<a name="cgc"></a><h2>Commonwealth Games<span class="slim"> - 2009</span></h2>			
+						<div class="thumbnails">
+							<a rel="lightbox[cgc]" href="images/portfolio/cgc_01_big.jpg"><img src="images/portfolio/cgc_01_small.jpg" alt="Commonwealth Games Thumbnail" /></a><a 
+							rel="lightbox[cgc]" href="images/portfolio/cgc_02_big.jpg"><img src="images/portfolio/cgc_02_small.jpg" alt="Commonwealth Games Thumbnail" /></a>
+						</div>
+						
+						<div class="desicription">
+							<div class="challenge">
+							</div>
+							<h3>Challenge</h3>
+							<p>Re-styling of the Commonwealth Games of Canada site</p>
+						</div>
+						<div class="desicription">
+							<div class="timeframe">
+							</div>
+							<h3>Time Frame</h3>
+							<p>2.5 months</p>
+						</div>
+						<div class="desicription">
+							<div class="design">
+							</div>
+							<h3>Design</h3>
+							<p>Restraining the color palette of the templates to that of red and white</p>
+						</div>
+						<div class="desicription">
+							<div class="integration">
+							</div>
+							<h3>Integration</h3>
+							<p>Creation of new portal, home and inside templates</p>
+						</div>
+						<div class="desicription">
+							<div class="important">
+							</div>
+							<h3>Notes</h3>
+							<p>Project built on a WCMC, available at: <a href="http://commonwealthgames.ca">www.commonwealthgames.ca</a></p>
+						</div>
+					</div>
+<!--EZ WEBZONE-->					
+					<div class="portfolio_piece">
+						<a name="ez"></a><h2>eZ WebZone<span class="slim"> - 2009</span></h2>
+						<div class="thumbnails">
+							<a rel="lightbox[ez]" href="images/portfolio/ez_01_big.jpg"><img src="images/portfolio/ez_01_small.jpg" alt="eZ Webzone Thumbnail" /></a><a 
+							rel="lightbox[ez]" href="images/portfolio/ez_02_big.jpg"><img src="images/portfolio/ez_02_small.jpg" alt="eZ Webzone Thumbnail" /></a>
+						</div>
+						
+						<div class="desicription">
+							<div class="challenge">
+							</div>
+							<h3>Challenge</h3>
+							<p>Creation of new look and feel for static site eZ WebZone</p>
+						</div>
+						<div class="desicription">
+							<div class="timeframe">
+							</div>
+							<h3>Time Frame</h3>
+							<p>2 months</p>
+						</div>
+						<div class="desicription">
+							<div class="design">
+							</div>
+							<h3>Design</h3>
+							<p>Study of color combination and new layout. Creation of home, inside and pop-up advertisement</p>
+						</div>
+						<div class="desicription">
+							<div class="integration">
+							</div>
+							<h3>Integration</h3>
+							<p>Static templates creation using includes of home, inside and pop-up advertisement</p>
+						</div>
+						<!--<div class="desicription">
+							<div class="important">
+							</div>
+							<h3>Notes</h3>
+							<p>Lorem Ipsum</p>
+						</div>-->
+					</div>
+<!--MMA BUILDER-->					
+					<div class="portfolio_piece">
+						<a name="mma"></a><h2>MMA Builder<span class="slim"> - 2009</span></h2>
+						<div class="thumbnails">
+							<a rel="lightbox[mma]" href="images/portfolio/mma_01_big.jpg"><img src="images/portfolio/mma_01_small.jpg" alt="MMA Builder Thumbnail" /></a><a 
+							rel="lightbox[mma]" href="images/portfolio/mma_02_big.jpg"><img src="images/portfolio/mma_02_small.jpg" alt="MMA Builder Thumbnail" /></a><a 
+							rel="lightbox[mma]" href="images/portfolio/mma_03_big.jpg"><img src="images/portfolio/mma_03_small.jpg" alt="MMA Builder Thumbnail" /></a>
+						</div>
+						
+						<div class="desicription">
+							<div class="challenge">
+							</div>
+							<h3>Challenge</h3>
+							<p>Creation of new corporate identity, Web look and feel and suggestion of site structure</p>
+						</div>
+						<div class="desicription">
+							<div class="timeframe">
+							</div>
+							<h3>Time Frame</h3>
+							<p>3 months</p>
+						</div>
+						<div class="desicription">
+							<div class="design">
+							</div>
+							<h3>Design</h3>
+							<p>Creation of logo for MMA Builder.  Creation of look and feel.</p>
+						</div>
+						<!--<div class="desicription">
+							<div class="integration">
+							</div>
+							<h3>Integration</h3>
+							<p>Lorem Ipsum</p>
+						</div>-->
+						<div class="desicription">
+							<div class="important">
+							</div>
+							<h3>Notes</h3>
+							<p>Project was abandonned by the employer before going live, thus  none of the pictures were purchased.  All images with iStock logos belong to iStockphoto 
+							and were not purchased by the client</p>
+						</div>
+					</div>
+<!--IRUN GENERIC THEMPLATES-->					
+					<div class="portfolio_piece">
+						<a name="irun"></a><h2>Irun Generic Templates<span class="slim"> - 2009</span></h2>
+						<div class="thumbnails">
+							<a rel="lightbox[irun]" href="images/portfolio/irun_01_big.jpg"><img src="images/portfolio/irun_01_small.jpg" alt="Irun Generic Templates Thumbnail" /></a><a 							rel="lightbox[irun]" href="images/portfolio/irun_02_big.jpg"><img src="images/portfolio/irun_02_small.jpg" alt="Irun Generic Templates Thumbnail" /></a><a 							
+							rel="lightbox[irun]" href="images/portfolio/irun_03_big.jpg"><img src="images/portfolio/irun_03_small.jpg" alt="Irun Generic Templates Thumbnail" /></a><a 							
+							rel="lightbox[irun]" href="images/portfolio/irun_04_big.jpg"><img src="images/portfolio/irun_04_small.jpg" alt="Irun Generic Templates Thumbnail" /></a><a 							
+							rel="lightbox[irun]" href="images/portfolio/irun_05_big.jpg"><img src="images/portfolio/irun_05_small.jpg" alt="Irun Generic Templates Thumbnail" /></a>
+						</div>
+						
+						<div class="desicription">
+							<div class="challenge">
+							</div>
+							<h3>Challenge</h3>
+							<p>Creation of templates for integration in Irun's WCMS to enable clients to switch between different skins</p>
+						</div>
+						<div class="desicription">
+							<div class="timeframe">
+							</div>
+							<h3>Time Frame</h3>
+							<p>2.5 months</p>
+						</div>
+						<div class="desicription">
+							<div class="design">
+							</div>
+							<h3>Design</h3>
+							<p>Creation of designs with 3 or more color palettes</p>
+						</div>
+						<div class="desicription">
+							<div class="integration">
+							</div>
+							<h3>Integration</h3>
+							<p>Creation of templates with interchangeable CSS files and includes to switch the look of the site quickly</p>
+						</div>
+						<div class="desicription">
+							<div class="important">
+							</div>
+							<h3>Notes</h3>
+							<p>Project was abandonned by the employer before going live, thus  none of the pictures were purchased.  All images with iStock logos belong to iStockphoto 
+							and were not purchased by the client</p>
+						</div>
+					</div>
+<!--CANADIAN FORCES SUPPORT UNIT OTTAWA-->					
+					<div class="portfolio_piece">
+						<a name="cfsuo"></a><h2>Canadian Forces Support Unit of Ottawa<span class="slim"> - 2007</span></h2>
+						<div class="thumbnails">
+							<a rel="lightbox" href="images/portfolio/cfsuo_01_big.jpg"><img src="images/portfolio/cfsuo_01_small.jpg" alt="Canadian Forces Support Unit of 
+							Ottawa Thumbnail" /></a>
+						</div>
+						
+						<div class="desicription">
+							<div class="challenge">
+							</div>
+							<h3>Challenge</h3>
+							<p>Re-styling of the Web site of the Canadian Forces Support Unit of Ottawa</p>
+						</div>
+						<div class="desicription">
+							<div class="timeframe">
+							</div>
+							<h3>Time Frame</h3>
+							<p>3 months</p>
+						</div>
+						<div class="desicription">
+							<div class="design">
+							</div>
+							<h3>Design</h3>
+							<p>Re-styling of the Canadian Forces Support Unit of Ottawa according to the guidlines of the Treasury Board Secretariat's Common Look and Feel 2 (CLF2)</p>
+						</div>
+						<!--<div class="desicription">
+							<div class="integration">
+							</div>
+							<h3>Integration</h3>
+							<p>Creation of templates with interchangeable CSS files and includes to switch the look of the site quickly</p>
+						</div>-->
+						<div class="desicription">
+							<div class="important">
+							</div>
+							<h3>Notes</h3>
+							<p>Although the design was accepted and integrated by CFSUO's developpers, the look has changed since 2007.  Available at: <a 
+							target="_blank" href="http://www.cfsuo.forces.gc.ca/index-eng.asp">www.cfsuo.forcs.gc.ca</a></p>
+						</div>
+						
+					</div>
+<!--RALLYE DES GAZELLES-->					
+					<div class="portfolio_piece">
+						<a name="rg"></a><h2>Rallye des Gazelles<span class="slim"> - 2007</span></h2>
+						<div class="thumbnails">
+							<a rel="lightbox[rallye]" href="images/portfolio/rallye_01_big.jpg"><img src="images/portfolio/rallye_01_small.jpg" alt="Rallye des Gazelles Thumbnail" 
+							/></a><a rel="lightbox[rallye]" href="images/portfolio/rallye_02_big.jpg"><img src="images/portfolio/rallye_02_small.jpg" alt="Rallye des Gazelles Thumbnail" /></a>
+						</div>
+						
+						<div class="desicription">
+							<div class="challenge">
+							</div>
+							<h3>Challenge</h3>
+							<p>Student contract: creation of a site for the Outaouais team for counting down to the day of the international women's rally competition for children 
+							in need in Moraco</p>
+						</div>
+						<div class="desicription">
+							<div class="timeframe">
+							</div>
+							<h3>Time Frame</h3>
+							<p>2 months</p>
+						</div>
+						<div class="desicription">
+							<div class="design">
+							</div>
+							<h3>Design</h3>
+							<p>Creation of look and feel and identity for mass media distribution</p>
+						</div>
+						<div class="desicription">
+							<div class="integration">
+							</div>
+							<h3>Integration</h3>
+							<p>Static templates creation for home and inside pages.  Special thanks to Robert McClure for helping with the countdown in flash</p>
+						</div>
+						<div class="desicription">
+							<div class="important">
+							</div>
+							<h3>Notes</h3>
+							<p>This site is no longer available for viewing</p>
+						</div>
+						
+					</div>			
+				</div>			
+			</td>
+			<td id="center_right">&nbsp;
+				
+			</td>						
+			<td id="center_right_repeater">&nbsp;					
+			</td>						
+		</tr>
+	</table>
+</body>
+</html>
